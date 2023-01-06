@@ -13,6 +13,9 @@
 - 💬 Ask me about anything related to Python, we can learn together
 - 📫 How to reach me: You can contanct me through Telegram, Instagtam and Gmail
 <br>
+<br>
+<h2>🔒Currently all of my repositories are Private🔒</h2>
+<br>
 <h2>Skills and Tools</h2>
 <p align="left">
   <a href="https://skillicons.dev">
