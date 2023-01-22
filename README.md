@@ -14,7 +14,7 @@
 - 📫 How to reach me: You can contanct me through Telegram, Instagtam and Gmail
 <br>
 
-<p align="center" style="font-size: 30px">🔒Currently, all of my repositories are Private🔒</p>
+<!-- <p align="center" style="font-size: 30px">🔒Currently, all of my repositories are Private🔒</p> -->
 <br>
 <h2>Skills and Tools</h2>
 <p align="left">
