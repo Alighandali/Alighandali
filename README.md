@@ -1,8 +1,6 @@
 ### <h1>Ali Ghandali</h1>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlighandali&count_bg=%23FB3131&title_bg=%236E6E6E&icon=github.svg&icon_color=%23E7E7E7&title=Profile+View&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-yellow?logo=instagram&logoColor=white&link=https://instagram.com/aliii___gh_._/)](https://www.instagram.com/aliii___gh_._)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram&logoColor=white&link=https://t.me/ali_gh13/)](https://t.me/ali_gh13)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:alighandali92@gmail.com)
 [![Github](https://img.shields.io/github/followers/Alighandali?label=Follow&style=social)](https://github.com/Alighandali)
 
 - 💻 I’m a Data Science Learner
